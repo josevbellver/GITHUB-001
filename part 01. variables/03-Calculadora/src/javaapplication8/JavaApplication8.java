@@ -14,7 +14,11 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author vicent
+ * 
+ *  *********************
+ * @author vicent Bellver
+ *  *********************
+ * 
  */
 public class JavaApplication8 {
 
