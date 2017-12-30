@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
  * @author vicent Bellver
  * 
  */
-public class JavaApplication8 {
+public class Calculadora {
 
     /**
      * @param args the command line arguments
